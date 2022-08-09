@@ -1,15 +1,9 @@
 <h1 align="center"> Desafio LightHouse - DS </h1>
-## Índice 
-
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
-* [Badges](#badges)
-* [Índice](#índice)
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Status do Projeto](#status-do-Projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)
-* [Conclusão](#conclusão)
+*Como rodar o projeto*
+- Fiz todas as análises usando o Jupyter Notebook: tem a pasta nesse repositório com o código que utilizei.
+- As bibliotecas usada são: 
+seaborn
+matplotlib.pyplot
+sweetviz
+category_encoders
+sklearn.metrics
